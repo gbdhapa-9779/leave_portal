@@ -1,4 +1,6 @@
-# leave_portal
-Built a library Management portal having 2 entities, student and admin for managing book issue and return.
-Students can issue and return books after login. Admin can update books info and charge fine.
-JavaScript and MySQL for server side and Database. HTML, CSS and Bootstrap for Frontend.
+
+– Developed both front-end and back-end for faculty portal.Used HTML for front-end and php for back-end and phpmyadmin
+  for database and Xampp server.
+– Database triggers and stored procedures were used to implement the functionalities within the constraints.
+– A faculty can apply for leave and leave is granted hierarchically, Director->Dean->hod->faculty
+– Features include apply for a leave, hierarchy, user profile with password protection, admin login.
